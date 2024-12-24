@@ -1,6 +1,6 @@
 # MNSA: Multitasking Network with Spatial Attention and Adaptive Feature Enhancer Module for the Classification and Segmentation of Ultra-Fine-Grained Datasets
 
-This repository contains the implementation for the paper **"MNSA: Multitasking Network with Spatial Attention and Adaptive Feature Enhancer Module for the Classification and Segmentation of Ultra-Fine-Grained Datasets"**.
+This repository contains the PyTorch implementation for the paper **"MNSA: Multitasking Network with Spatial Attention and Adaptive Feature Enhancer Module for the Classification and Segmentation of Ultra-Fine-Grained Datasets"**.
 
 MNSA introduces a multitasking neural network that leverages spatial attention and an adaptive feature enhancer module to achieve high performance on ultra-fine-grained classification and segmentation tasks. The model is optimized for datasets with intricate patterns and subtle differences.
 
