@@ -15,7 +15,8 @@ docker build -t mnsa .
 ```
 
 ### Data Preparation
-The dataset can be downloaded from [Google Drive](https://drive.google.com/drive/u/2/folders/10QKsb3v__qpHuMqM96EA40M_M2DeYXN3)
+The dataset can be downloaded from [Google Drive](https://drive.google.com/drive/u/2/folders/10QKsb3v__qpHuMqM96EA40M_M2DeYXN3).
+
 Place your dataset in the `./data` directory before running the training scripts. Ensure the data structure follows the expected format.
 
 ---
