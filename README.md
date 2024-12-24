@@ -15,8 +15,8 @@ docker build -t mnsa .
 ```
 
 ### Data Preparation
+The dataset can be downloaded from [Google Drive](https://drive.google.com/drive/u/2/folders/10QKsb3v__qpHuMqM96EA40M_M2DeYXN3)
 Place your dataset in the `./data` directory before running the training scripts. Ensure the data structure follows the expected format.
-
 ---
 
 ## Training Instructions
@@ -44,14 +44,10 @@ This implementation is based on [MGANet](https://github.com/Markin-Wang/MGANet).
 
 ---
 
-## Contributions
-Feel free to contribute to this repository by submitting issues or pull requests. If you use this work in your research, please cite the corresponding paper.
-
----
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Please check the license file for more details.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For further details about the model and experiments, please refer to the accompanying paper.
+
