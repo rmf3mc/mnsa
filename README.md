@@ -38,7 +38,7 @@ For additional training options and configurations, please refer to the `train_m
 ### Step 2: Train the Segmentation Head
 Once the classification head is trained, train the segmentation head using the following command:
 ```bash
-python -u Train.py --mmanet --seg_ild --freeze_all --dataparallel --data_dir ./data --backbone_class 'densenet161' --model_path best_model.pth --unet --transfer_to 0.250
+python -u Train.py --mmanet --seg_ild --freeze_all --dataparallel --data_dir ./data --backbone_class 'densenet161' --model_path ./best_model.pth --unet --transfer_to 0.250
 ```
 
 For more segmentation training options and configurations, refer to the `train_model_seg.sh` script.
