@@ -51,8 +51,8 @@ This implementation is based on [MGANet](https://github.com/Markin-Wang/MGANet).
 ---
 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## Citation
+
 
 ---
 
