@@ -2,7 +2,7 @@
 
 # Check if an argument is provided
 if [ $# -eq 0 ]; then
-    echo "No arguments provided. Please provide an argument (1-10)."
+    echo "No arguments provided. Please provide an argument (1-8)."
     exit 1
 fi
 
